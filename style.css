@@ -16,6 +16,15 @@ section {
 
 .go {
     width: 50%;
-    padding-left: 6%;
-    padding-top: 5%;
+    padding-left: 5%;
+    padding-top: 2%;
+}
+
+.Button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    padding: 10PX 40PX;
+    font-weight: 700;
+    border-radius: 5px;
+    color: white;
 }
